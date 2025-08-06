@@ -1,5 +1,7 @@
 📊 Global Layoffs Data Cleaning & Analysis (SQL Project)
+
 📌 Project Overview
+
 This project analyzes global layoffs data to uncover key trends, identify companies most affected, and study industry patterns. It involves:
 
 Data Cleaning: Removing duplicates, handling nulls, standardizing formats.
@@ -17,6 +19,7 @@ Data Cleaning Techniques — Standardization, null handling, date conversion
 
 
 🧹 Data Cleaning Process
+
 Performed in 01_data_cleaning_world_layoffs.sql
 
 Steps Taken
@@ -52,6 +55,7 @@ Removed helper column row_num after cleanup.
 
 
 🔍 Exploratory Data Analysis
+
 Performed in 02_exploratory_analysis_world_layoffs.sql
 
 Key Insights & Queries
@@ -75,6 +79,7 @@ Ranked top 5 companies per year using DENSE_RANK().
 
 
 📈 Sample Insights
+
 Peak Layoffs: Certain months show massive spikes due to large-scale layoffs from tech giants.
 
 Industries Impacted Most: Crypto and consumer tech companies saw significant layoffs.
@@ -85,6 +90,7 @@ Yearly Leaders: Some companies appeared in the top 5 layoff lists multiple years
 
 
 💼 Skills Demonstrated
+
 SQL Data Cleaning (duplicates, nulls, text standardization, data type conversion)
 
 SQL Analysis (aggregations, grouping, time-based trends)
@@ -95,6 +101,7 @@ Analytical thinking and storytelling with data
 
 
 📎 How to Use
+
 Import the dataset into MySQL.
 
 Run 01_data_cleaning_world_layoffs.sql to clean the data.
