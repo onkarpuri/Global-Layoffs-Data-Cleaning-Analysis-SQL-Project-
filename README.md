@@ -99,6 +99,10 @@ CTEs, Window Functions, and Ranking
 
 Analytical thinking and storytelling with data
 
+Preview
+<img width="1700" height="771" alt="image" src="https://github.com/user-attachments/assets/a280d47b-bdc1-4a51-a56e-5bb0197eaaf7" />
+<img width="1705" height="770" alt="image" src="https://github.com/user-attachments/assets/2c5f901c-8c5a-425f-b909-0a9feb2196ee" />
+
 
 📎 How to Use
 
